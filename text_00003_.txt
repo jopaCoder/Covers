@@ -1,0 +1,73 @@
+**STEP 1 — POSTER ANALYSIS**
+
+**Exact number of visible characters:** 3
+
+**Character Descriptions:**
+*   **Character 1 (Panka):**
+    *   age: 20
+    *   physical appearance: Slender, slight build.
+    *   body position: Centered, occupying the space between the two older women.
+    *   head direction: Towards the simmering pot.
+    *   eye direction: Directed slightly down toward the central pot.
+    *   hand position: Hands are near the center, palms slightly open.
+    *   facial expression: Exhausted, drawn face.
+*   **Character 2 (Vali):**
+    *   age: 45
+    *   physical appearance: Curvaceous.
+    *   body position: Aggressively positioned near the stove, standing in a confrontation.
+    *   head direction: Directed toward the pot of nokedli.
+    *   eye direction: Focused intensely on the pot.
+    *   hand position: Arms are tightly crossed across her chest, with one hand pointing a finger toward the pot.
+    *   facial expression: Flushed, taut expression.
+*   **Character 3 (Irénke):**
+    *   age: 78
+    *   physical appearance: Frail but rigid.
+    *   body position: Standing slightly behind Vali.
+    *   head direction: Turned toward the pot of nokedli.
+    *   eye direction: Sharp, accusing, and wide.
+    *   hand position: One arm is extended, gesturing dramatically over the simmering paprika.
+    *   facial expression: Strained, accusatory expression.
+
+**Spatial Composition:**
+*   foreground / background placement: Foreground is dominated by the characters' immediate positions and the central pot. The background is the kitchen setting.
+*   relative positioning between characters: Vali and Irénke flank Panka. Vali is positioned closest to the stove; Irénke is standing behind Vali. Panka is positioned centrally between the two.
+*   distance and orientation between them: They are in close, highly concentrated proximity, facing inward toward the central object (the pot).
+
+**Environment:**
+*   location type: Small, overheated domestic kitchen.
+*   furniture and objects: Chipped wooden countertops, a stove, a simmering pot of nokedli, and a pot of simmering paprika.
+*   lighting source and direction: Late afternoon Golden Hour light streaming through a single, grimy kitchen window (coming from the side/back). A harsh, cool-toned Rim Light hits Panka’s back and shoulders, contrasting with deep shadows pooling around Vali and Irénke.
+
+***
+
+**STEP 2 — PROMPT STRUCTURE ANALYSIS**
+
+1.  **Order of elements:** Sequential list (1 through 6).
+2.  **Style descriptors:** Highly descriptive, cinematic, and technical (e.g., "Cinematic photorealism," "soft contrast," "warm color grading").
+3.  **Level of detail:** Extremely high. Specifies body posture, object names, light effects (rim light, lens flare), and emotional state (translated into physical appearance).
+4.  **Formatting patterns:**
+    *   Use of numbered headings (1. Subject, 2. Scene, etc.).
+    *   Internal use of descriptive commas and conjunctions to build complex, cohesive sentences within each section.
+    *   A concluding section listing technical constraints.
+
+***
+
+**STEP 3 — PROMPT CREATION**
+
+1. Subject:
+A 20-year-old European woman who is slender and slight, with a messy braid, wearing an oversized soft grey cotton hoodie; a 45-year-old European woman, curvaceous, wearing a patterned blouse and faded jeans, with crossed arms and pointing a finger; and a 78-year-old European woman, frail but rigid, wearing a floral house dress and a tightly tied scarf.
+
+2. Scene:
+A small, overheated domestic kitchen setting; the background features chipped wooden countertops and a stove holding a simmering pot of nokedli; the characters are positioned in close proximity around the central pot and a pot of simmering paprika.
+
+3. Composition:
+Vertical 4:5 frame, medium shot composition; The three characters are tightly grouped, with the pot of nokedli occupying the central foreground; Vali is positioned at the stove, Irénke is behind Vali, and Panka is centered between them.
+
+4. Lighting:
+The primary light is late afternoon Golden Hour, casting warm, honey-gold light on the countertops and pots; a harsh, cool-toned Rim Light hits the back of the 20-year-old European woman's head and shoulders; deep, rich shadows pool around the 45-year-old European woman and the 78-year-old European woman, emphasizing contrast.
+
+5. Style:
+Cinematic photorealism, documentary film still aesthetic, high contrast with deep shadows, warm color grading mixed with cool, harsh light accents, subtle grain, natural skin texture, high detail without oversharpening.
+
+6. Constraints:
+No text, no logos, only literal visual description; maintain natural anatomy and realistic proportions; the 20-year-old European woman is positioned between the 45-year-old European woman and the 78-year-old European woman, whose hands are actively gesturing toward the central pot.
